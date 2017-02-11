@@ -6,7 +6,7 @@ package observerpattern.pattern1.demo;
 public class ObserverPatternEx {
 
     public static void main (String[] args){
-
+/*
         System.out.println( " *** Observer Pattern Demo ***\n");
         Observer o1 = new Observer();
         Subject s1 = new Subject();
@@ -20,7 +20,7 @@ public class ObserverPatternEx {
         //No notification this time to o1. Since it is unregistered.
         System.out.println( "Setting Flag = 50 " );
         s1.setFlag( 50 );
-
+*/
     }
 
 
